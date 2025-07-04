@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Modern landing page and admin dashboard for cryptocurrency trading course",
-  "keywords": ["crypto", "trading", "education", "react", "typescript"],
+  "description": "Modern landing page and admin dashboard for cryptocurrency trading course with enterprise security",
+  "keywords": ["crypto", "trading", "education", "react", "typescript", "security"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
